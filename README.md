@@ -10,16 +10,21 @@
 3. **Effort**: in your life need alot of power to can move at any anything you work in it or you must doing so some of good word will help you to get some energy, you can ask help or anyone have good experience to tell you and get some passion to continue your life.
 4.  **experince from other** : like how i say you need or it will help you other people story to get you more powerful and passion in your life.
 
+
+
 	![growth mindest look like](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
+	
+	
   
   > Theres 3 reminders i said to my self to keep my mindset growth: 
  
-    - Think realistically about time :
+  - Think realistically about time :
+  
 It takes time to learn. Don’t expect to master every topic on one time.
-
-    - Make new goal every day :
+   - Make new goal every day :
+   
   You’ll never be done learning. Just because your midterm exam is over doesn’t mean you should stop being interested in a subject. Growth-minded people know how to constantly create new goals to keep themselves stimulated.
   
-    - Stop seeking approval :
+   - Stop seeking approval :
    When you prioritise approval over learning, you sacrifice your own potential for growth.
    
