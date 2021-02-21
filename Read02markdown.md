@@ -1,10 +1,12 @@
 # Markdown 
 ## Summary of markdown 
 *makrdown* you can say its simaler to html but more easier, you can text, edite and design things at markdown but at web , you can just do some thing at it,
-Markdown have not a lot of feature can you do it or eadit at it,most place its will use at Github :
+Markdown have not a lot of feature can you do it or eadit at it,most place its will use at Github : 
 > Gists
 > Comments in Issues 
 > Files with the .md or .markdown extension.
+### mean of Github: 
+GitHub allows developers to host their files in a 'Git Repository' so that other people can collaborate on projects with them, whether they are open for public contribution (open source) or closed for specific colleagues to work on a private project.
 
 ### Example : 
  - Make some word Bold by put *then any thing you want writer* 
