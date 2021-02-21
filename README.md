@@ -10,7 +10,7 @@
 3. **Effort**: in your life need alot of power to can move at any anything you work in it or you must doing so some of good word will help you to get some energy, you can ask help or anyone have good experience to tell you and get some passion to continue your life.
 4.  **experince from other** : like how i say you need or it will help you other people story to get you more powerful and passion in your life.
 
-	![growth mindest look like](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)'
+	![growth mindest look like](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
   
   > Theres 3 reminders i said to my self to keep my mindset growth: 
  
