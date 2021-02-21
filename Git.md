@@ -14,6 +14,12 @@ of softwaer like to use it. git have diffrent feature to use for what you want t
 - Step 4: Make a commit. 
 - Step 5: Connect your GitHub repo with your computer.
  - step 6 :Register or Log in to post a comment.
+ 
  ## Dose the Github safe?
  The Github very safe for softwear but be carful by downloading any code you must be sure from the sorce but it still very safe for us.
  
+ # Git ABC: 
+ 
+The abc command its for github meaning for this mean the first devolpment called *a* then the second who will add or edit the code *b* the last one whos the master 
+for the code the last one who edit or change at called maybe will be the *c* and hes called a *Head* 
+![GitHub abc](https://www3.ntu.edu.sg/home/ehchua/programming/howto/images/Git_Branch4.png)
