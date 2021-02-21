@@ -12,7 +12,7 @@
 
 
 
-	![growth mindest look like](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
+![growth mindest](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
 	
 	
   
