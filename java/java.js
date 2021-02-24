@@ -45,5 +45,3 @@ element.innerText="this is you weather's temperature : "+ toCelsius(77) + " Cels
 function toCelsius(fahrenheit) {
     return (5/9) * (fahrenheit-32);
   } 
-
-'
