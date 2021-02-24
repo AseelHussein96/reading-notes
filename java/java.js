@@ -1,7 +1,11 @@
 // how many book get rent 
 // discount based at how many book rent in the same day 
 // display the discount 
-confirm("I wish you have a good time at my LIBRARY ")
+ // if you your student it will you rent.
+
+if (confirm('Are you student here?')) {
+    alert('welcome');
+    confirm("I wish you have a good time at my LIBRARY ")
 
 var BookPriceRent=3;
 
@@ -27,8 +31,19 @@ if (ask==true) {
 } else{
     x=" i hope to see you again :() "
 }
+// if not your student it will not you allow to get rent
 alert(x);
 
-//var amountOfbooks=BookPriceRent*amountOfbooks;
-//var element=document.getElementById('pirce');
-//lement.innerText='This is your price'+totalprice
+  } else {
+    
+    alert('sorry its just for student');
+  }
+
+// This element show temeprature at the library
+var element=document.getElementById("demo");
+element.innerText="this is you weather's temperature : "+ toCelsius(77) + " Celsius";
+function toCelsius(fahrenheit) {
+    return (5/9) * (fahrenheit-32);
+  } 
+
+'
