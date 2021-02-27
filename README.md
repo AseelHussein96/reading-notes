@@ -1,16 +1,7 @@
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   # WELCOME TO MY PAGE 
 ## NTRODUCTION TO PROGRAMMING: 
+
+# Code 102 Reading Notes.
 - this table show most important topic in this course:
 
 |main topic     |description |
@@ -22,4 +13,5 @@
 |[Aboutgrowthmindest](https://aseelhussein96.github.io/reading-notes/) |  growth your mind|
 
 *click on main topic for more details
+
    
